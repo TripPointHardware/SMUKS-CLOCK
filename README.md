@@ -2,20 +2,11 @@
 
 An offline Android alarm clock with a billable-hours work timer. Alarms that never miss, and a weekly hours text ready to paste into an invoice.
 
-Part of [Trip Point Software](#) <!-- link to your entry page --> · by Trip Point Hardware
-
-**[Download the latest APK](../../releases/latest)** · Android 8.0 or newer · Free · No internet access
-
-<p>
-  <img src="screenshots/clock-1-alarms.png" width="23%" alt="Alarm list">
-  <img src="screenshots/clock-2-alarm-ringing.png" width="23%" alt="Alarm ringing">
-  <img src="screenshots/clock-3-alarm-editor.png" width="23%" alt="Alarm editor">
-  <img src="screenshots/clock-4-work-hours.png" width="23%" alt="Work hours">
-</p>
+Part of Trip Point Software · by Trip Point Hardware
+Android 8.0 or newer · Free · No internet access
 
 ## Why
 
-<!-- Your own words: what was wrong with Samsung Clock, and why you built this. -->
 Samsung Clock can't ring every other day, and no timer app gave me the weekly hours I bill. This one does both, and is built so an alarm never quietly fails.
 
 ## Features
@@ -49,7 +40,7 @@ Samsung Clock can't ring every other day, and no timer app gave me the weekly ho
 
 ## Install
 
-1. Download `clock-<version>.apk` from [Releases](../../releases/latest) on your phone and tap it.
+1. Download `clock-<version>.apk` on your phone and tap it.
 2. Allow **Install unknown apps** for your browser or file manager when asked. If Play Protect warns about an unknown developer, choose **Install anyway**.
 3. Open Clock and allow notifications.
 4. Settings (gear on the Alarms tab) → **Alarm reliability**: fix anything that isn't green, especially **Battery → Unrestricted**.
@@ -89,9 +80,9 @@ Samsung Clock can't ring every other day, and no timer app gave me the weekly ho
 | Version | Changes |
 |---|---|
 | 1.1.2 | First public release |
-<!-- Add new versions on top. -->
+
 
 ## License
 
-Provided as is, without warranty. <!-- Add a license if you want one. -->
+Provided as is, without warranty.
 Source code is private; this repository hosts the releases.
