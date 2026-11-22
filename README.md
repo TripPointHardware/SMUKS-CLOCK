@@ -2,7 +2,7 @@
 
 An offline Android alarm clock with a billable-hours work timer. Alarms that never miss, and a weekly hours text ready to paste into an invoice.
 
-Part of Trip Point Software · by Trip Point Hardware
+Part of Trip Point Software · by Trip Point Hardware · 
 Android 8.0 or newer · Free · No internet access
 
 ## Why
