@@ -85,4 +85,4 @@ Samsung Clock can't ring every other day, and no timer app gave me the weekly ho
 ## License
 
 Provided as is, without warranty.
-Source code is private; this repository hosts the releases.
+Source code is private; this repository hosts the releases. Well, I don't mind sharing the source code, but if you are like me, I just download scripts and programs I see on GitHub. I could give a rat's ass how it works.
