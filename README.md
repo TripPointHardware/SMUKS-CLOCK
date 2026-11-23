@@ -7,7 +7,7 @@ Android 8.0 or newer · Free · No internet access
 
 ## Why
 
-Samsung Clock can't ring every other day, and no timer app gave me the weekly hours I bill. This one does both, and is built so an alarm never quietly fails.
+Samsung Clock can't ring every other day, and no timer app gave me the weekly hours I bill. This one has both. Apparently that was too hard for a 6 figure Korean Samsung developer. 
 
 ## Features
 
